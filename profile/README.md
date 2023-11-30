@@ -22,7 +22,7 @@ Voici quelques-uns de nos projets en cours :
 
 Si vous avez des questions ou souhaitez en savoir plus sur notre organisation, n'hésitez pas à nous contacter :
 
-- Site web :   bientôt
+- Site web :   https://corundum-project.github.io/
 - Email : corundumteam@gmail.com
 - Serveur Discord : https://discord.gg/PCsh97652b
 
